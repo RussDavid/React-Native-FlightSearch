@@ -1,0 +1,101 @@
+[
+    {
+        "flightID": "AKL101",
+        "origin": "Auckland",
+        "destination": "Wellington",
+        "departure_date": "2020-04-16",
+        "arrival_time": "1800",
+        "departure_time": "2200",
+        "price": 200,
+        "origin_short": "AKL",
+        "dest_short": "WGT"
+    },
+    {
+        "flightID": "AKL222",
+        "origin": "Auckland",
+        "destination": "Wellington",
+        "departure_date": "2020-04-16",
+        "arrival_time": "2000",
+        "departure_time": "2300",
+        "price": 200,
+        "origin_short": "AKL",
+        "dest_short": "WGT"
+    },
+    {
+        "flightID": "WGT211",
+        "origin": "Wellington",
+        "destination": "Auckland",
+        "departure_date": "2020-04-17",
+        "arrival_time": "0800",
+        "departure_time": "2200",
+        "price": 200,
+        "origin_short": "WGT",
+        "dest_short": "AKL"
+    }, 
+    {
+        "flightID": "WGT420",
+        "origin": "Wellington",
+        "destination": "Auckland",
+        "departure_date": "2020-04-17",
+        "arrival_time": "0900",
+        "departure_time": "2300",
+        "price": 200,
+        "origin_short": "WGT",
+        "dest_short": "AKL"
+    },
+    {
+        "flightID": "CHC150",
+        "origin": "Christchurch",
+        "destination": "Auckland",
+        "departure_date": "2020-04-23",
+        "arrival_time": "2200",
+        "departure_time": "1900",
+        "price": 350,
+        "origin_short": "CHC",
+        "dest_short": "AKL"
+    },
+    {
+        "flightID": "CHC350",
+        "origin": "Christchurch",
+        "destination": "Wellington",
+        "departure_date": "2020-04-22",
+        "arrival_time": "0900",
+        "departure_time": "0600",
+        "price": 400,
+        "origin_short": "CHC",
+        "dest_short": "WGT"
+    },
+    {
+        "flightID": "HMT975",
+        "origin": "Hamilton",
+        "destination": "Wellington",
+        "departure_date": "2020-04-25",
+        "arrival_time": "1000",
+        "departure_time": "1200",
+        "price": 200,
+        "origin_short": "HMT",
+        "dest_short": "WGT"
+    },
+    {
+        "flightID": "CHC400",
+        "origin": "Christchurch",
+        "destination": "Auckland",
+        "departure_date": "2020-04-23",
+        "arrival_time": "1100",
+        "departure_time": "1400",
+        "price": 200,
+        "origin_short": "CHC",
+        "dest_short": "AKL"
+    },
+    {
+        "flightID": "AKL876",
+        "origin": "Auckland",
+        "destination": "Christchurch",
+        "departure_date": "2020-04-18",
+        "arrival_time": "1100",
+        "departure_time": "1400",
+        "price": 200,
+        "origin_short": "AKL",
+        "dest_short": "CHC"
+    }
+]
